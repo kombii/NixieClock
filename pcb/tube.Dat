@@ -1,0 +1,28 @@
+Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~tube.PrjPCB|ReportField=ProjectFullPath~C:\Users\37798\Desktop\个人项目\辉光管\clock\pcb\tube.PrjPCB|ReportField=Title~Bill of Materials For Project [tube.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~69|ReportField=ReportTime~0:16:13|ReportField=ReportDate~2017/01/15 星期日|ReportField=ReportDateTime~2017/01/15 星期日 0:16:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/01/15 星期日|ReportField=CurrentTime~0:13:46|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\37798\Desktop\个人项目\辉光管\clock\pcb\SCH.SchDoc|ReportField=DocumentName~SCH.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/12/29 星期四|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=16K 197x273 mm|PaperIndex=121|ReportField=ProjectName~tube.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~tube.PrjPCB|ReportField=DataSourceFullPath~C:\Users\37798\Desktop\个人项目\辉光管\clock\pcb\tube.PrjPCB
+Header 9|10kx9|HDR1X9|Header 9|
+DS3231|3231|SOP127P1030X267_HS-17N|DS3231|
+BEEP|B1|BEEP|BEEP|
+CR1220|BT1|cr1220|CR1220|
+Cap Pol1|C1|1206_Diode|Cap Pol1|10uF/10V
+Cap|C2, C3, C5, C6, C7, C8, C10, C11, C12|0805|Cap|100pF, 100pF, 1nF, 0.1uF, 0.1uF, 100pF, 0.1uF, 20pF, 20pF
+Cap Pol3|C4|1812|Cap Pol3|4.7uF/250V
+Cap Pol1|C9|7343|Cap Pol1|470uF/16V
+DC座|D1|DC座|DC座|
+FR107|D1|DO-214AC|Diode 18TQ045|
+75V/0.5W|D2|1206_Diode|Diode 10TQ040|
+1N4007|D3|DO-214AC|Diode|
+1A|F1|1206|Fuse 1|
+Header4|JP1, JP2|HEADER4|4 HEADER|
+330uH|L1|330uH|L|
+IRF630|Q1|TO-263|IRF630|
+A42|Q2, Q3, Q4, Q5|SOT-23-BJT|2N3904|
+9014|Q6|SOT-23-BJT|2N3904|
+QS30-1|QS1, QS2, QS3, QS4, QS5, QS6|QS30-1|QS30-1|
+Res2|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R24|0805|Res2|20K, 20K, 20K, 20K, 100, 0.33, 330, 1.1M, 8.2K, 20K, 20K, 33K, 240K, 33K, 240K, 33K, 33K, 240K, 240K, 240K, 4.7K, 4.7K, 1K
+MC34063ADR|U1|SO-8-M|MC34063ACD-TR|
+L78M05CDT|U2|DPAK-M|L78M05CDT|
+XC6206|U3|SOT-23|XC6206|
+HV57708PG|U4|PQFP80|HV57708PG|
+STM32F103C8T6|U5|LQFP48_N|STM32F103C8T6|
+Neon|UP1, UP2, UP3, UP4|Neon|Neon|
+晶振|Y1|晶振|晶振|

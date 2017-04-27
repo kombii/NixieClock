@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=SCH.SchDoc
+Record=HARD_PROCESSOR_COMPONENT|BaseComponentDesignator=U5|DocumentName=SCH.SchDoc|LibraryReference=STM32F103C8T6|SubProjectPath= |Configuration= |Description=STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|NexusDeviceId=STM32F103C8T6|SubPartUniqueId1=GVVYCTHN|SubPartDocPath1=SCH.SchDoc
